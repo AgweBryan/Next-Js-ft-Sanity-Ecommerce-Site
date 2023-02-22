@@ -1,3 +1,11 @@
+![Screenshot (284)](https://user-images.githubusercontent.com/73445540/220681289-f78f4a15-d5e7-4a7c-b271-001179e816b2.png)
+![Screenshot (283)](https://user-images.githubusercontent.com/73445540/220681448-38eb3d0a-9310-4643-8e6c-97c2bb3cda73.png)
+![Screenshot (282)](https://user-images.githubusercontent.com/73445540/220681512-ae9656da-405e-48f6-8453-4efe056030cc.png)
+![Screenshot (281)](https://user-images.githubusercontent.com/73445540/220681541-c4cdf072-062a-4fa1-a352-8996365ae973.png)
+![Screenshot (280)](https://user-images.githubusercontent.com/73445540/220681594-8265da5f-fa39-40a8-a5a9-b3c3a772ba2c.png)
+![Screenshot (279)](https://user-images.githubusercontent.com/73445540/220681638-baa352a0-98ec-473a-b9ad-ca58a9ded1a7.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
